@@ -2,7 +2,7 @@
 
 |                               	|    	|                                  	|    	|                      	|   	|
 |-------------------------------	|----	|----------------------------------	|----	|----------------------	|---	|
-| Manual brightnes              	|  ✅ 	| Battery lifetime > 24h from 100% 	|  ✅ 	| Automatic brightness  |  ✅	|
+| Manual brightness              	|  ✅ 	| Battery lifetime > 24h from 100% 	|  ✅ 	| Automatic brightness  |  ✅	|
 | No reboot needed for 1 week    	|  ❔	| Fingerprint reader  	                |  ✅  	| Waydroid		|  ✅	|
 | Torchlight                    	|  ✅	| Boot into UI                     	|  ✅ 	| GPS ***               	|  ✅✖️ 	|
 | Vibration                     	|  ✅ 	| Hardware video playback          	|  ✅ 	| Proximity           	|  ✅ 	|
@@ -16,7 +16,7 @@
 | Incoming, outgoing calls      	|  ✅ 	| Shutdown / Reboot                	|  ✅ 	| ADB access          	|  ✖️✖️ 	|
 | MMS in, out                   	|  ❔ 	| Wireless External monitor        	|  ✖️✖️	| MTP access           	|  ✅ 	|
 | SMS in, out                    	|  ✅ 	| Bluetooth                        	|  ✅ 	| WiFi			|  ✅	|
-| Change audio routings          	|  ✅	| Flight mode                      	|  ✅ 	| Hotspot		|  ✅	|
+| Change audio routing           	|  ✅	| Flight mode                      	|  ✅ 	| Hotspot		|  ✅	|
 | Voice in calls **               	|  ✅✖️ 	|
 
 - **✅** *Confirmed working.*
@@ -29,11 +29,11 @@
 
 \** - Voice works in calls, but you can't change the volume of earpiece
 
-\*** - GPS works in Waydroid (thought it may need to run GPSTest app from F-Droid to force it)
+\*** - GPS works in Waydroid (though you may need to run GPSTest app from F-Droid to force it)
 
 # Installation
 
-**You can read [wiki](https://github.com/droidian-vayu/device-page/wiki)**
+**You can read the [wiki](https://github.com/droidian-vayu/device-page/wiki)**
 
 # Support
 - Droidian on Poco X3 Pro telegram group: [@Droidian For Poco X3 Pro](https://t.me/droidian_vayu)
